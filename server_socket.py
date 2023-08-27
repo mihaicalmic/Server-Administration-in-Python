@@ -1,5 +1,3 @@
-#Program: Python Exercise 1: Echo Server in Python
-#Student ID: A00272236
 
 from dns_client import webPC
 import socket as sk                                         # Import socket and call it sk, avoid conflicts
