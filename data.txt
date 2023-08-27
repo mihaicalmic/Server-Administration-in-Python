@@ -1,0 +1,5 @@
+192.168.10.1,www.google.com
+192.56.101.36,www.youtube.com
+126.56.97.12,www.twiter.com
+192.188.23.54,www.cisco.com
+1.1.1.1,loopback
