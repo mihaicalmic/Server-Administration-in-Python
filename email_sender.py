@@ -3,7 +3,7 @@ class Sender:
     def send_email(message):
         smtp_server = "smtp.gmail.com"
         port = 587
-        sender_email="scripting4server@gmail.com"
+        sender_email="email_address"
         recipient_email="email_address"
         password = "email_password"
         
